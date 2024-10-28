@@ -1,3 +1,3 @@
-document.addEventListener("DOMContentLoaded", function () {
-  document.getElementById("bgMusic").play();
-});
+// document.addEventListener("DOMContentLoaded", function () {
+//   document.getElementById("bgMusic").play();
+// });
