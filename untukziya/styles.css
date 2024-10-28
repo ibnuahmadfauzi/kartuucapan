@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&family=Parisienne&family=Quicksand:wght@300..700&display=swap");
+
+body {
+  color: #373737;
+  background-color: #dddfde;
+  display: flex;
+  justify-content: center;
+}
+
+#splashscreen {
+  height: 100vh;
+  background-image: url("bg.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 500px;
+}
+
+.fstyle-dynapuff {
+  font-family: "DynaPuff", system-ui;
+}
+
+.fstyle-quicksand {
+  font-family: "Quicksand", sans-serif;
+}
+
+.fstyle-parisienne {
+  font-family: "Parisienne", cursive;
+}
+
+.container-full {
+  width: 100%;
+}
